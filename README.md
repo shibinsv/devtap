@@ -5,7 +5,6 @@ A lightweight Android developer utility that provides quick access to debugging 
 <img width="1672" height="941" alt="devtap_cover" src="https://github.com/user-attachments/assets/0fbf626e-5799-4de4-9377-efbce1eef885" />
 
 ## ✨ Features
-
 - 🔌 **USB Debugging**
   - Quickly open USB debugging settings
 
@@ -52,7 +51,6 @@ A lightweight Android developer utility that provides quick access to debugging 
   - Tap the widget to jump directly to **Developer Options**, without opening DevTap first.
 
 ## 🛠️ Tech Stack
-
 - Kotlin
 - Jetpack Compose
 - Material 3
@@ -62,7 +60,6 @@ A lightweight Android developer utility that provides quick access to debugging 
 - StateFlow
 
 ## 🏗️ Architecture
-
 DevTap follows a simple separation of responsibilities:
 
 UI
@@ -74,7 +71,8 @@ HomeUiState
 Data
  ↓
 Android APIs
-Project Structure
+
+**Project Structure**
 devtap
 ├── data
 │   ├── debug
@@ -98,18 +96,18 @@ devtap
 │
 └── MainActivity
 
-📋 Requirements
-Android device or emulator
-Android 12+
-Developer Options supported by the device
-🚀 Getting Started
+##📋 Requirements
+- Android device or emulator
+- Android 12+
+- Developer Options supported by the device
 
-📸 Screenshots
+## 📸 Screenshots
+
 <img width="250" height="500" alt="12" src="https://github.com/user-attachments/assets/3469bf62-253e-4858-804d-848de2893de5" />
 <img width="250" height="500" alt="w2" src="https://github.com/user-attachments/assets/bc5ae52f-c3ff-47c1-bc80-75a44f11c6f3" />
 <img width="250" height="500" alt="s1" src="https://github.com/user-attachments/assets/c0c3b284-1906-4cde-a001-e6b389243f01" />
 
-🗺️ Roadmap
+## 🗺️ Roadmap
 - Quick access to more Android settings
 - Better wireless debugging support
 - More device information
@@ -117,6 +115,14 @@ Developer Options supported by the device
 - Additional developer utilities
 - More customization options
 - Quick Settings Tile
+
+
+
+
+
+
+
+
 
 
 
