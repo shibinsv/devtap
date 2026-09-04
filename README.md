@@ -105,10 +105,7 @@ git clone https://github.com/YOUR_USERNAME/devtap.git
 Open the project in Android Studio and run it on an Android device or emulator.
 
 📸 Screenshots
-
-<img width="500" height="1000" alt="s1" src="https://github.com/user-attachments/assets/c210f80c-dae2-47c4-bfe9-c6ca4a76b089" />
-
-
+ Coming soon
 
 🗺️ Roadmap
  USB debugging quick access
