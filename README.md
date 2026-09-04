@@ -106,7 +106,9 @@ Open the project in Android Studio and run it on an Android device or emulator.
 
 📸 Screenshots
 
-Coming soon.
+<img width="500" height="1000" alt="s1" src="https://github.com/user-attachments/assets/c210f80c-dae2-47c4-bfe9-c6ca4a76b089" />
+
+
 
 🗺️ Roadmap
  USB debugging quick access
