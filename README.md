@@ -2,6 +2,8 @@
 
 A lightweight Android developer utility that provides quick access to debugging settings and useful device information.
 
+<img width="1672" height="941" alt="devtap_cover" src="https://github.com/user-attachments/assets/0fbf626e-5799-4de4-9377-efbce1eef885" />
+
 ## ✨ Features
 
 - 🔌 **USB Debugging**
@@ -103,13 +105,19 @@ Developer Options supported by the device
 🚀 Getting Started
 
 📸 Screenshots
- Coming soon
+<img width="250" height="500" alt="12" src="https://github.com/user-attachments/assets/3469bf62-253e-4858-804d-848de2893de5" />
+<img width="250" height="500" alt="w2" src="https://github.com/user-attachments/assets/bc5ae52f-c3ff-47c1-bc80-75a44f11c6f3" />
+<img width="250" height="500" alt="s1" src="https://github.com/user-attachments/assets/c0c3b284-1906-4cde-a001-e6b389243f01" />
 
 🗺️ Roadmap
- Quick access to more Android settings
- Better wireless debugging support
- More device information
- More widget actions
- Additional developer utilities
- More customization options
- Quick Settings Tile
+- Quick access to more Android settings
+- Better wireless debugging support
+- More device information
+- More widget actions
+- Additional developer utilities
+- More customization options
+- Quick Settings Tile
+
+
+
+Built for Android developers who live in Developer Options. ⚡
