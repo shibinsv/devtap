@@ -44,6 +44,10 @@ A lightweight Android developer utility that provides quick access to debugging 
 
 - 🌙 **Dark UI**
   - Developer-focused dark interface
+  
+- **⚡ Home Screen Widget**
+  - DevTap also includes a small home-screen widget.
+  - Tap the widget to jump directly to **Developer Options**, without opening DevTap first.
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +63,6 @@ A lightweight Android developer utility that provides quick access to debugging 
 
 DevTap follows a simple separation of responsibilities:
 
-```text
 UI
  ↓
 HomeViewModel
@@ -92,42 +95,21 @@ devtap
 │   └── HomeViewModel
 │
 └── MainActivity
+
 📋 Requirements
 Android device or emulator
 Android 12+
 Developer Options supported by the device
 🚀 Getting Started
 
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/devtap.git
-
-Open the project in Android Studio and run it on an Android device or emulator.
-
 📸 Screenshots
  Coming soon
 
 🗺️ Roadmap
- USB debugging quick access
- Wireless debugging quick access
- Developer Options quick access
- Debugging status
- Device information
- Copy device information
- Screen information
- Battery information
- USB configuration shortcut
- Improved wireless debugging detection
- Network information
- Memory information
- Storage information
+ Quick access to more Android settings
+ Better wireless debugging support
+ More device information
+ More widget actions
+ Additional developer utilities
+ More customization options
  Quick Settings Tile
-🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to open an issue or submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License.
